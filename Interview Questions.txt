@@ -1,0 +1,36 @@
+Task 1: 
+Create a simple webpage to present the data series attached (the data shows few months worth of daily electricity production by different production technologies). The page should provide the following functionalities:
+    - Filter data by clicking to legend 
+    - Switch between chart and table options
+    - Export chart as an image
+    
+Task 2: 
+Analyse different charting libraries (D3.js, google charts, highcharts or any other libraries?) and be prepared to answer the following questions:
+
+Q1. What are the main differences between them?
+
+Q2. Compatibility (cross browser) differences between these charts? 
+
+Q3. Which of them provides map (geo) charts?  And which one would you prefer if you are given a task to build gas pipeline infrastructure for Europe and why?
+
+Q4. Assume that you are given gas flows between European countries:
+
+    DE->BE 12 billion cubic metres (bcm)
+    BE->DE 3bcm
+
+    DE->NL 3bcm
+    NL->DE 11bcm
+
+    RU->DE 20bcm
+    DE->RU 0bmc
+
+    FR->BE 13bmc
+    BE->FR 3bcm
+
+    FR->NO 0bcm
+    NO->FR 16bcm
+
+    Which chart would you prefer to represent this data series? 
+    
+Note 1: If you like, you can create a presentation that you can use to answer these questions during the interview.
+
